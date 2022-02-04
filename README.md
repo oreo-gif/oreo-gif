@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/atulyasingh3" target="blank"><img src="https://img.shields.io/twitter/follow/atulyasingh3?logo=twitter&style=for-the-badge" alt="atulyasingh3" /></a> </p>
 
-- 🔭 I’m currently working on **improving my skills and community works**
+- 🔭 I’m currently working on **improving my skills**
 
 - 🌱 I’m currently learning **Figma and DSA**
 
 - 💬 Ask me about **UI/ UX, Communities and Hackathons**
-
-- 📫 How to reach me **singh.20atulya@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FgNuKoSfex7_MdTZBt6Wu_aDLRsokLfz/view?usp=sharing](https://drive.google.com/file/d/1FgNuKoSfex7_MdTZBt6Wu_aDLRsokLfz/view?usp=sharing)
 
