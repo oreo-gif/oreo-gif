@@ -1,7 +1,7 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Atulya</h1>
+         width="45" />,I'm Atulya</h1>
 <h3 align="center">A community person and a UI / UX enthusiast from India</h3>
 
 <p align="left"> <a href="https://twitter.com/atulyasingh3" target="blank"><img src="https://img.shields.io/twitter/follow/atulyasingh3?logo=twitter&style=for-the-badge" alt="atulyasingh3" /></a> </p>
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FgNuKoSfex7_MdTZBt6Wu_aDLRsokLfz/view?usp=sharing](https://drive.google.com/file/d/1FgNuKoSfex7_MdTZBt6Wu_aDLRsokLfz/view?usp=sharing)
 
-- ⚡ **I am also a professional Guitarist and sketch artist too**
+- ⚡ Fact about me: **I am also a professional Guitarist and sketch artist too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
