@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />,I'm Atulya</h1>
+         width="45" />I'm Atulya</h1>
 <h3 align="center">A community person and a UI / UX enthusiast from India</h3>
 
 <p align="left"> <a href="https://twitter.com/atulyasingh3" target="blank"><img src="https://img.shields.io/twitter/follow/atulyasingh3?logo=twitter&style=for-the-badge" alt="atulyasingh3" /></a> </p>
