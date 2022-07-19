@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **Figma and DSA**
+- 🌱 I’m currently learning **User Research**
 
 - 💬 Ask me about **UI/ UX, Communities and Hackathons**
 
